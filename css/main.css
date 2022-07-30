@@ -1,0 +1,84 @@
+/* Main */
+.main-background {
+  color: #0066ff;
+}
+
+.logo-image {
+  height: 100px;
+  width: 100px;
+}
+
+.hero-img {
+  height: 200px;
+  width: 200px;
+}
+
+.rightPad {
+  padding-right: 0.5rem;
+}
+
+/* Colors */
+.is-celtic-blue {
+  background-color: #3273DC;
+}
+
+.is-raisin-black {
+  background-color: #272932;
+}
+
+.is-grey-web {
+  background-color: #828489;
+}
+
+/* Container for skill bars */
+.containerSkills {
+  width: 100%;
+  /* Full width */
+  background-color: #ddd;
+  /* Grey background */
+}
+
+.skills {
+  text-align: right;
+  /* Right-align text */
+  padding-top: 10px;
+  /* Add top padding */
+  padding-bottom: 10px;
+  /* Add bottom padding */
+  margin: 0.5rem 0 0.5rem 0;
+  color: #F6F6F2;
+  /* White text color */
+}
+
+/* Progress Bars */
+.frontend {
+  width: 85%;
+  background-color: #3273DC;
+  color: #fff;
+}
+
+.backend {
+  width: 80%;
+  background-color: #3273DC;
+  color: #fff;
+}
+
+.android {
+  width: 35%;
+  background-color: #3273DC;
+  color: #fff;
+}
+
+.project {
+  width: 65%;
+  background-color: #3273DC;
+  color: #fff;
+}
+
+.leadership {
+  width: 75%;
+  background-color: #3273DC;
+  color: #fff;
+}
+
+/*# sourceMappingURL=main.css.map */
