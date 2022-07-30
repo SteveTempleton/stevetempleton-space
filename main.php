@@ -15,8 +15,7 @@
           alt="pdf download of steve templeton's resume" download>Resume Download (.pdf)</a>
       </div>
 
-
-      <!-- Second Column -->
+      <!-- First Column -->
       <div class="columns">
         <div class="column">
           <div class="content">
@@ -81,6 +80,7 @@
             </ul>
           </div>
         </div>
+        <!-- Second Column -->
         <div class="column">
           <div class="content">
             <h5 class="is-5 has-text-weight-bold is-uppercase has-text-white">Education</h5>
