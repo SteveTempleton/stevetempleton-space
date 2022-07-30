@@ -262,6 +262,9 @@
   </section>
 
   <!-- Projects -->
+  <?php 
+    // include 'projects.php';
+  ?>
   <!-- Removing for the moment 
     <section class="section is-raisin-black is-flex-mobile">
       <div class="container">

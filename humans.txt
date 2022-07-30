@@ -1,0 +1,15 @@
+/* TEAM */
+Developer: Steve Templeton
+Site: steve.w.templeton@gmail.com
+Twitter: https://twitter.com/SteveWTempleton
+Location: Fargo, ND - For now...soon Seattle, WA
+
+/* THANKS */
+
+Indiana University for giving me my start
+
+/* SITE */
+Last Update: 2022/07/30
+Standards: HTML5/CSS3/PHP7
+Components: None
+Software: VS Code
