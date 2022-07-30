@@ -54,12 +54,12 @@
               Affairs)</p>
             <p>2017 - 2020</p>
             <ul>
-              <li>Perform application development on a wide range of systems using multiple programming languages and
-                tools
+              <li>Designed and developed a Scholarship application system using HTML, CSS, JavaScript, PHP, and MySQL
               </li>
-              <li>Develop standards and best practices for application development leading to reduced development time
+              <li>Managed 50+ websites in a CMS system (Cascade CMS) using HTML, CSS, JavaScript, and PHP
               </li>
-              <li>Manage multiple projects with complex information systems</li>
+              <li>Developed the Indiana Clean Lakes Program website used for citizen science reporting using LAMP stack
+              </li>
             </ul>
           </div>
 
@@ -68,15 +68,13 @@
             <p class="subtitle is-6 has-text-white">Indiana University (Classroom Technology Services)</p>
             <p>2014 - 2017</p>
             <ul>
-              <li>Developed the Classroom Database used by 9 campuses, managed departmental intranet web resources,
-                and
-                created web forms</li>
+              <li>Designed and developed the Indiana University Classroom Database to be used by 9 campuses, managed
+                departmental intranet web resources, and created web forms using HTML, CSS, JavaScript, PHP, and MySQL
+              </li>
               <li>Trained hourly employees to excel in their positions, and trained faculty/staff on classroom
-                technology
-              </li>
+                technology</li>
               <li>Composed training and support documentation enabling the technical support team to work more
-                efficiently
-              </li>
+                efficiently</li>
             </ul>
           </div>
         </div>
@@ -121,7 +119,7 @@
               <li class="">Salesforce Marketing Cloud</li>
             </ul>
           </div>
-         
+
           <div class="content">
             <h6 class="subtitle is-6 has-text-white">Training</h6>
           </div>
@@ -245,8 +243,8 @@
           </div>
         </div>
         <div class="columns">
-          <div class="column"><a class="button is-link is-rounded"
-              href="https://www.youtube.com/watch?v=rHPZCxQNnFg" target="_blank">Disc
+          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=rHPZCxQNnFg"
+              target="_blank">Disc
               Golf</a></div>
           <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=iIpfWORQWhU"
               target="_blank">Running</a></div>
@@ -254,8 +252,8 @@
               target="_blank">Autodidact</a></div>
           <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=UMVjToYOjbM"
               target="_blank">Traveling</a></div>
-          <div class="column"><a class="button is-link is-rounded"
-              href="https://www.youtube.com/watch?v=GJlNvSC5v6s" target="_blank">Foodie</a></div>
+          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=GJlNvSC5v6s"
+              target="_blank">Foodie</a></div>
         </div>
       </div>
     </div>
