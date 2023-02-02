@@ -79,6 +79,10 @@
               class="navbar-item is-uppercase has-text-white" alt="twitter">
               <i class="fab fa-twitter fa-lg" alt="twitter"> Twitter</i>
             </a>
+            <a href="https://stevetempleton.space/blog" target="_blank"
+              class="navbar-item is-uppercase has-text-white">
+              <i class="fas fa-blog fa-lg" alt="blog"> Blog</i>
+            </a>
           </div>
         </div>
       </div>
