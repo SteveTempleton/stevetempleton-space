@@ -101,7 +101,7 @@
                 candidates the ability to search postings with ease.
               </li>
               <li>Create University Work Study Program tracking application used to monitor 100's of students in the
-                work study program. The application was built using Java, Apache Tapestry and Cayenne.</li>
+                work study program. The application was built using Java, Apache Tapestry, and Cayenne.</li>
             </ul>
           </div>
 
