@@ -84,9 +84,9 @@
             <p class="subtitle is-6 has-text-white">Templeton Softworks</p>
             <p>2022 - Present</p>
             <ul>
-              <li>Oversee operations and advance business objectives towards the future</li>
-              <li>Design and develop solutions for customers</li>
-              <li>Consult with businesses to create unique solutions for their industries</li>
+              <li>Oversee operations and advance business objectives towards the future.</li>
+              <li>Design and develop solutions for customers.</li>
+              <li>Consult with businesses to create unique solutions for their industries.</li>
             </ul>
           </div>
 
@@ -101,7 +101,7 @@
                 candidates the ability to search postings with ease.
               </li>
               <li>Create University Work Study Program tracking application used to monitor 100's of students in the
-                work study program The application was built using Java, Apache Tapestry and Cayenne.</li>
+                work study program. The application was built using Java, Apache Tapestry and Cayenne.</li>
             </ul>
           </div>
 
