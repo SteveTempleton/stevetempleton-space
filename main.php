@@ -238,11 +238,11 @@
                 </div>
                 <hr class="dropdown-divider">
                 <div class="dropdown-item music-hover" role="menuitem">
-                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/watch?v=MeyRw7fkPJo" target="_blank">Trace</a>
+                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/watch?v=MeyRw7fkPJo" target="_blank">Trance</a>
                 </div>
                 <hr class="dropdown-divider">
                 <div class="dropdown-item music-hover" role="menuitem">
-                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow" target="_blank">Lo-fi Hip Hop</a>
+                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow" target="_blank">Lofi Hip Hop</a>
                 </div>
               </div>
             </div>

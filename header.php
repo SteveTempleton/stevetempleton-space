@@ -75,10 +75,10 @@
               class="navbar-item is-uppercase has-text-white" alt="linkedin">
               <i class="fab fa-linkedin-in fa-lg" alt="linkedin"> LinkedIn</i>
             </a>
-            <a href="https://twitter.com/SteveWTempleton" target="_blank"
+            <!-- <a href="https://twitter.com/SteveWTempleton" target="_blank"
               class="navbar-item is-uppercase has-text-white" alt="twitter">
               <i class="fab fa-twitter fa-lg" alt="twitter"> Twitter</i>
-            </a>
+            </a> -->
             <a href="https://stevetempleton.space/blog" target="_blank"
               class="navbar-item is-uppercase has-text-white">
               <i class="fas fa-blog fa-lg" alt="blog"> Blog</i>
