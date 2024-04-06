@@ -209,7 +209,7 @@
 
   <!-- Interest Div -->
   <section class="section is-flex-mobile">
-    <div class="container is-white-background">
+    <div class="container">
       <div class="content">
         <h4 class="title is-4 is-uppercase">Interests | Hobbies | Activities</h4>
         <div class="columns">
