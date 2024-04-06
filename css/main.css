@@ -30,6 +30,10 @@
   background-color: #828489;
 }
 
+is-white-background {
+  background-color: #fff;
+}
+
 /* Container for skill bars */
 .containerSkills {
   width: 100%;
@@ -52,7 +56,7 @@
 
 /* Progress Bars */
 .frontend {
-  width: 85%;
+  width: 95%;
   background-color: #3273DC;
   color: #fff;
 }
@@ -70,7 +74,7 @@
 }
 
 .project {
-  width: 65%;
+  width: 55%;
   background-color: #3273DC;
   color: #fff;
 }
@@ -79,6 +83,4 @@
   width: 75%;
   background-color: #3273DC;
   color: #fff;
-}
-
-/*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
