@@ -208,10 +208,18 @@
   </section>
 
   <!-- Interest Div -->
-  <section class="section is-flex-mobile">
+  <section class="section is-flex-mobile is-white-background">
     <div class="container">
       <div class="content">
         <h4 class="title is-4 is-uppercase">Interests | Hobbies | Activities</h4>
+        <div class="columns">
+          <div class="column">
+            <p>I have a wide range of interest when a few linked below. I received my Blue Belt in Brazilian Jiu-Jitsu in 2023 and won a 
+              gold medal at a submission-only competition. I regularly travel with recent trips to Amsterdam, Chicago, Seattle, and Winnipeg.
+              Check out my <a href="https://stevetempleton.space/blog">blog</a> for my ideas, thoughts, and experiences. 
+            </p>
+          </div>
+        </div>
         <p>Links to Youtube Videos</p>
         <div class="columns">
           <div id="musicDiv" class="column dropdown">
