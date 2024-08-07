@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tic Tac Toe Project</title>
+  <meta content="" name="author">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+  <!-- Include Stylesheets -->
+  <link rel="stylesheet" type="text/css" href="../../css/bulma.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="../../css/main.css">
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <!-- Include Javascript -->
+  <script type="text/javascript" src="script.js" defer></script>
+  <!-- <script type="text/javascript" src="" async></script> -->
+</head>
+
+<body>
+  <header class="is-link is-fullheight-with-navbar is-bold">
+    <nav class="navbar is-link" role="navigation" aria-label="main navigation">
+      <div class="container">
+        <div class="navbar-brand">
+          <a class="logo-image" href="https://stevetempleton.space/">
+            <img src="../../images/logo.png" alt="Steve Templeton dot space logo">
+          </a>
+          <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
+        <div id="navbarMenu" class="navbar-menu">
+          <div class="navbar-start">
+            <a href="https://stevetempleton.space/#about" class="navbar-item is-uppercase has-text-white is-size-4">
+              About
+            </a>
+            <!--
+            <a href="#projects" class="navbar-item">
+              Projects
+            </a>-->
+            <a href="https://stevetempleton.space/#contact" class="navbar-item is-uppercase has-text-white is-size-4">
+              Contact
+            </a>
+          </div>
+
+          <div class="navbar-end">
+            <!-- <div class="navbar-item">
+              <div class="buttons">
+                <a href="projects/tictactoe/index.html" class="button is-link is-inverted">
+                  <strong>Latest Project</strong>
+                </a>
+              </div>
+            </div> -->
+            <a href="mailto:steve.w.templeton@gmail.com" target="_blank" class="navbar-item is-uppercase has-text-white"
+              alt="email">
+              <i class="fas fa-at fa-lg" alt="email"> Email</i>
+            </a>
+            <a href="https://github.com/SteveTempleton" target="_blank" class="navbar-item is-uppercase has-text-white"
+              alt="github">
+              <i class="fab fa-github fa-lg" alt="github"> Github</i>
+            </a>
+            <a href="https://linkedin.com/in/stevetempleton" target="_blank"
+              class="navbar-item is-uppercase has-text-white" alt="linkedin">
+              <i class="fab fa-linkedin-in fa-lg" alt="linkedin"> LinkedIn</i>
+            </a>
+            <a href="https://stevetempleton.space/blog" target="_blank" class="navbar-item is-uppercase has-text-white">
+              <i class="fas fa-blog fa-lg" alt="blog"> Blog</i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <div class="game-rules">
+      <h1 class="is-size-1">Tic Tac Toe</h1>
+      <h2 class="is-size-2">Game Rules</h2>
+      <p>X starts the game. Players take turns placing their mark on the empty squares. </p>
+      <p>The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner. </p>
+      <p>If all 9 squares are full, that game is a draw.</p>
+      <!-- <div class="turn" id="turnMessage">
+        <div data-turn-message-text></div>
+      </div> -->
+    </div>
+    <!-- Tic Tac Toe Board -->
+    <div class="board-area">
+      <div class="turn" id="turnMessage">
+        <div data-turn-message-text></div>
+      </div>
+      <div class="board" id="board">
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+      </div>
+    </div>
+    <div class="winning-message" id="winningMessage">
+      <div data-winning-message-text></div>
+      <button id="restartButton">Restart</button>
+    </div>
+  </main>
+  <!-- Footer Content -->
+  <footer>
+    <span></span>
+  </footer>
+</body>
+
+</html>

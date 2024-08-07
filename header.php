@@ -24,7 +24,7 @@
     integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="css/main.css">
   <!-- Include Javascript -->
-  <!--<script type="text/javascript" src="" async></script>-->
+  <script type="text/javascript" src="script.js" async></script>
 </head>
 
 <body>
@@ -57,11 +57,11 @@
 
           <div class="navbar-end">
             <div class="navbar-item">
-              <!--<div class="buttons">
-                <a class="button is-link is-inverted">
+              <div class="buttons">
+                <a href="projects/tictactoe/index.html" class="button is-link is-inverted">
                   <strong>Latest Project</strong>
                 </a>
-              </div>-->
+              </div>
             </div>
             <a href="mailto:steve.w.templeton@gmail.com" target="_blank" class="navbar-item is-uppercase has-text-white"
               alt="email">
@@ -75,10 +75,6 @@
               class="navbar-item is-uppercase has-text-white" alt="linkedin">
               <i class="fab fa-linkedin-in fa-lg" alt="linkedin"> LinkedIn</i>
             </a>
-            <!-- <a href="https://twitter.com/SteveWTempleton" target="_blank"
-              class="navbar-item is-uppercase has-text-white" alt="twitter">
-              <i class="fab fa-twitter fa-lg" alt="twitter"> Twitter</i>
-            </a> -->
             <a href="https://stevetempleton.space/blog" target="_blank"
               class="navbar-item is-uppercase has-text-white">
               <i class="fas fa-blog fa-lg" alt="blog"> Blog</i>
