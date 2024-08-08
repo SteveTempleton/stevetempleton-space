@@ -1,4 +1,13 @@
 <main>
+  <section class="hero hero-color is-halfheight is-bold">
+    <!-- Hero Content -->
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title is-1 has-text-white">Steve Templeton dot Space</h1>
+        <h2 class="subtitle is-2 has-text-white">Welcome to Steve's Space on the Internet</h2>
+      </div>
+    </div>
+  </section>
   <!-- Main Content -->
   <section class="section is-flex-mobile is-raisin-black has-text-white">
     <div class="container">
@@ -15,7 +24,8 @@
 
         <div class="content ">
           <h5 class="title is-4 is-uppercase has-text-white">Resume</h5>
-          <a class="button is-celtic-blue is-medium has-text-white" href="docs/steve-templeton-resume-7-22.pdf" alt="pdf download of steve templeton's resume" download>Resume Download (.pdf)</a>
+          <a class="button is-celtic-blue is-medium has-text-white" href="docs/steve-templeton-resume-7-22.pdf"
+            alt="pdf download of steve templeton's resume" download>Resume Download (.pdf)</a>
         </div>
       </div>
 
@@ -180,7 +190,8 @@
             </ul>
           </div>
           <div class="content">
-            <a class="button is-link is-rounded" href="https://github.com/SteveTempleton/Developing-the-Developer"><i class="fab fa-github rightPad" alt="github link and image"></i> Link to materials on Github
+            <a class="button is-link is-rounded" href="https://github.com/SteveTempleton/Developing-the-Developer"><i
+                class="fab fa-github rightPad" alt="github link and image"></i> Link to materials on Github
             </a>
           </div>
           <div class="content">
@@ -214,9 +225,11 @@
         <h4 class="title is-4 is-uppercase">Interests | Hobbies | Activities</h4>
         <div class="columns">
           <div class="column">
-            <p>I have a wide range of interest with a few linked below. I received my Blue Belt in Brazilian Jiu-Jitsu in 2023 and won a 
-              gold medal at a submission-only competition. I regularly travel with recent trips to Amsterdam, Chicago, Seattle, and Winnipeg.
-              Check out my <a href="https://stevetempleton.space/blog">blog</a> for my ideas, thoughts, and experiences. 
+            <p>I have a wide range of interest with a few linked below. I received my Blue Belt in Brazilian Jiu-Jitsu
+              in 2023 and won a
+              gold medal at a submission-only competition. I regularly travel with recent trips to Amsterdam, Chicago,
+              Seattle, and Winnipeg.
+              Check out my <a href="https://stevetempleton.space/blog">blog</a> for my ideas, thoughts, and experiences.
             </p>
           </div>
         </div>
@@ -224,7 +237,8 @@
         <div class="columns">
           <div id="musicDiv" class="column dropdown">
             <div class="dropdown-trigger">
-              <button id="musicDropdown" class="button is-link is-rounded" aria-haspopup="true" aria-controls="dropdown-menu2" onclick="musicButtonClick()">
+              <button id="musicDropdown" class="button is-link is-rounded" aria-haspopup="true"
+                aria-controls="dropdown-menu2" onclick="musicButtonClick()">
                 <span>Music</span>
                 <span class="icon is-small">
                   <i class="fas fa-angle-down" aria-hidden="true"></i>
@@ -234,42 +248,56 @@
             <div class="dropdown-menu" id="dropdown-menu2" role="menu">
               <div class="dropdown-content">
                 <div class="dropdown-item music-hover" role="menuitem">
-                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/watch?v=XqFkqn9lLUI" target="_blank">Rock</a>
+                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/watch?v=XqFkqn9lLUI"
+                    target="_blank">Rock</a>
                 </div>
                 <hr class="dropdown-divider">
                 <div class="dropdown-item music-hover" role="menuitem">
-                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/watch?v=nodB5gqt_mU" target="_blank">Drum 'n' Bass</a>
+                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/watch?v=nodB5gqt_mU"
+                    target="_blank">Drum 'n' Bass</a>
                 </div>
                 <hr class="dropdown-divider">
                 <div class="dropdown-item music-hover" role="menuitem">
-                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/watch?v=TqTTgL4w-2o" target="_blank">House</a>
+                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/watch?v=TqTTgL4w-2o"
+                    target="_blank">House</a>
                 </div>
                 <hr class="dropdown-divider">
                 <div class="dropdown-item music-hover" role="menuitem">
-                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/watch?v=MeyRw7fkPJo" target="_blank">Trance</a>
+                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/watch?v=MeyRw7fkPJo"
+                    target="_blank">Trance</a>
                 </div>
                 <hr class="dropdown-divider">
                 <div class="dropdown-item music-hover" role="menuitem">
-                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow" target="_blank">Lofi Hip Hop</a>
+                  <a class="button is-fullwidth is-link" href="https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow"
+                    target="_blank">Lofi Hip Hop</a>
                 </div>
               </div>
             </div>
           </div>
-          <div class="column"><a class="button is-link is-rounded" href="https://youtu.be/wbSwFU6tY1c?t=1285" target="_blank">Space Nerd</a>
+          <div class="column"><a class="button is-link is-rounded" href="https://youtu.be/wbSwFU6tY1c?t=1285"
+              target="_blank">Space Nerd</a>
           </div>
-          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=nY4FzrT8krQ" target="_blank">Brazilian Jiu-Jitsu</a>
+          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=nY4FzrT8krQ"
+              target="_blank">Brazilian Jiu-Jitsu</a>
           </div>
-          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=t35T341NACk" target="_blank">Biking</a></div>
-          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=u8MRyyFDX3c" target="_blank">Tabletop Gaming</a>
+          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=t35T341NACk"
+              target="_blank">Biking</a></div>
+          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=u8MRyyFDX3c"
+              target="_blank">Tabletop Gaming</a>
           </div>
         </div>
         <div class="columns">
-          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=rHPZCxQNnFg" target="_blank">Disc
+          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=rHPZCxQNnFg"
+              target="_blank">Disc
               Golf</a></div>
-          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=iIpfWORQWhU" target="_blank">Running</a></div>
-          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/user/destinws2" target="_blank">Autodidact</a></div>
-          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=UMVjToYOjbM" target="_blank">Traveling</a></div>
-          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=GJlNvSC5v6s" target="_blank">Foodie</a></div>
+          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=iIpfWORQWhU"
+              target="_blank">Running</a></div>
+          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/user/destinws2"
+              target="_blank">Autodidact</a></div>
+          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=UMVjToYOjbM"
+              target="_blank">Traveling</a></div>
+          <div class="column"><a class="button is-link is-rounded" href="https://www.youtube.com/watch?v=GJlNvSC5v6s"
+              target="_blank">Foodie</a></div>
         </div>
       </div>
     </div>
@@ -324,7 +352,8 @@
     <div class="container">
       <a name="contact"></a>
       <h3 class="title is-3 has-text-white">Contact</h3>
-      <a class="button is-link is-outlined is-inverted" href="mailto:steve.w.templeton@gmail.com">steve.w.templeton@gmail.com</a>
+      <a class="button is-link is-outlined is-inverted"
+        href="mailto:steve.w.templeton@gmail.com">steve.w.templeton@gmail.com</a>
     </div>
   </section>
 </main>

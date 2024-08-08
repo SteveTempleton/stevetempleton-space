@@ -1,3 +1,4 @@
+/* Colors */
 /* Main */
 .main-background {
   color: #0066ff;
@@ -13,13 +14,16 @@
   width: 200px;
 }
 
+.hero-color {
+  background-color: #4258FF;
+}
+
 .rightPad {
   padding-right: 0.5rem;
 }
 
-/* Colors */
 .is-celtic-blue {
-  background-color: #3273DC;
+  background-color: #4258FF;
 }
 
 .is-raisin-black {
@@ -57,30 +61,32 @@ is-white-background {
 /* Progress Bars */
 .frontend {
   width: 95%;
-  background-color: #3273DC;
+  background-color: #4258FF;
   color: #fff;
 }
 
 .backend {
   width: 80%;
-  background-color: #3273DC;
+  background-color: #4258FF;
   color: #fff;
 }
 
 .android {
   width: 35%;
-  background-color: #3273DC;
+  background-color: #4258FF;
   color: #fff;
 }
 
 .project {
   width: 55%;
-  background-color: #3273DC;
+  background-color: #4258FF;
   color: #fff;
 }
 
 .leadership {
   width: 75%;
-  background-color: #3273DC;
+  background-color: #4258FF;
   color: #fff;
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=main.css.map */
