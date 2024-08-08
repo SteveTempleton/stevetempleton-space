@@ -28,7 +28,7 @@
   <link rel="stylesheet" type="text/css" href="css/main.css">
   <!-- Include Javascript -->
   <script type="text/javascript" src="js/jquery.js" async></script>
-  <script type="text/javascript" src="script.js" async></script>
+  <script type="text/javascript" src="index.js" async></script>
 </head>
 
 <body>
